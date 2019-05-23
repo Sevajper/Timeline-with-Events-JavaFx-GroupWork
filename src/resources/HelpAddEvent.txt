@@ -1,0 +1,23 @@
+1. Open Timeline-manager.
+2.  A drop down menu in the upper left corner appears where all the personal
+	Timelines are listed.
+3. Choose the preferred timeline.
+4. Click on "Add Event" button and a new window will appear.
+5. Provide a event name and a description.
+6. Events with duration ( Events with start and ending dates):
+7.  Provide Start and End time of the event. Start and end time has to be written with
+	years-month-days ("000-00-00"). Alternatively press the smaller calendar button
+	and choose the date with the DatePicker function. The month are picked in the
+	upper left corner in the DatePicker window and the years are chosen in the upper
+	right corner. Alternate between the years with left and right arrows.
+8.  Next to the Start and End buttons there are two drop down menus for start and
+	end time of the event.
+9. When done, click the "Finish" button.
+10. The event is added when a green circle appears.When hovering with the mouse
+	over the circle, the event name should show up. Also a green bar will show up
+	that starts at the "Event Start" and ends at the "Event End".
+11.Alternatively if event hasn't any duration:
+12.Provide a start date and time, leave end date and time empty.
+13.When done, click the "Finish" button.
+14. The event is added when a blue circle appears.When hovering with the mouse
+	over the circle, the event name should show up.

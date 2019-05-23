@@ -1,0 +1,6 @@
+1. Click a preferred timeline
+2. The different years and their event circles will appear.
+3. To zoom in right-click with the computer mouse.
+4. When zoomed in, the month in that year will appear. Zooming in one more time
+will give the user a day by day view with the respective event circles.
+5.To zoom out left-click with the computer mouse. 

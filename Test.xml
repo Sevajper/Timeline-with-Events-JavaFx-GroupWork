@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Timeline>
+    <TimelineName>Timeline Test 1</TimelineName>
+    <TimelineStartDate>2001-01-01T00:00</TimelineStartDate>
+    <TimelineEndDate>2002-01-01T00:00</TimelineEndDate>
+    <Event>
+        <EventName>Event Test 1</EventName>
+        <EventDescription>This is first event</EventDescription>
+        <EventStartDate>2001-03-12T05:00</EventStartDate>
+    </Event>
+    <Event>
+        <EventName>Event Test Duration</EventName>
+        <EventDescription>This is second Event</EventDescription>
+        <EventStartDate>2001-04-12T05:00</EventStartDate>
+        <EventEndDate>2001-05-12T05:00</EventEndDate>
+    </Event>
+</Timeline>

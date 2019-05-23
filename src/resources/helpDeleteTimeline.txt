@@ -1,0 +1,10 @@
+1. Open the timeline, which should be deleted.
+2. Press the "Delete Timeline" button.
+3. A alert window will appear.
+4. Press the "Delete Timeline" button in the alert window to delete the timeline.
+Then the timeline will be gone but you will still have a saved file of the timeline
+on your computer.
+5. Alternatively press the "Delete File Too" And the file of the timeline will also be
+deleted in your folder.
+6. If the timeline shouldn't be removed click the "Cancel" button and the alert window
+will disappear.

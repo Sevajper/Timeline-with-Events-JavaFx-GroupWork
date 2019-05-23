@@ -1,0 +1,9 @@
+1. Click the Event circle, which should be edited. Does not matter if with or without duration. 
+2. The Event window will appear, but all the bars are disabled so no accidental changes
+ can be made. To start editing press the "Edit information" button. 
+3. All the previous information is on display on the left. 
+4. After clicking the edit "Event information" the name, description and dates will become editable.
+ 5. Apply changes to the information as preferred. 
+6. Click the "Finish" button when done. To disregard the changes click the "Cancel" button 
+7. The new changes will update and appear on the left side when editing, were previous information was displayed. 
+  

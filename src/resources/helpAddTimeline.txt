@@ -1,0 +1,10 @@
+1. Open Timeline-manager.
+2. Click "Add Timeline" button.
+3. Provide a name for the Timeline in the "Timeline name" section.
+4. Provide Start and End date of the timeline. Start and end time has to be written
+	with years-month-days ("000-00-00"). Alternatively press the smaller calendar
+	button and choose the date with the DatePicker function. The month are picked in
+	the upper left corner in the DatePicker window and the years are chosen in the
+	upper right corner. Alternate between the years with left and right arrows.
+5. When done, click the "Finish" button.
+6. A new Timeline will appear.
